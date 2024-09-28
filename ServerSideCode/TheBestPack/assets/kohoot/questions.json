@@ -1,0 +1,18 @@
+{
+    "The Best Kahoot!":{
+        "Q1":{
+            "Who is my favourite?":{
+                "Alex":"C",
+                "Bob":"W",
+                "Gran":"w"
+            }
+        },
+        "Q2":{
+            "Who is the worst?":{
+                "Alex":"W",
+                "Bob":"W",
+                "Gran":"C"
+            }
+        }
+    }
+}
